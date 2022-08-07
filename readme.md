@@ -13,7 +13,7 @@ ONE proporcioná un plan de estudios, esto con la finalidad de llevar un orden y
 
 El plan de estudios se realizó utilizando la herramienta Trello, la cuál nos permite gestionar proyectos y tareas.
 
-## Principiante en Programación T3 - ONE
+## Formación - Principiante en Programación T3 - ONE
 Esta formación es una guía básica inicial para entrar al mundo de la programación. Abarca temas como lógica de programación, crear páginas web con HTML y CSS (layouts para una página web estática) así como ganar experiencia con GIT, aprender sobre el sistema de versionamiento de código.
 
 
@@ -29,9 +29,9 @@ Ejercicios desarrollados en el modulo
 
 | Curso | Link al repo |
 | ----- | ------------:|
-|`Lógica de programación parte 1: Primeros pasos`|[Link al repositorio](https://github.com/AngelDiaz-21/Fizzbuzz)|
-|`Lógica de programación parte 2: Conceptos primordiales`|[Link al repositorio](https://github.com/AngelDiaz-21/fizzbuzz-contribucion-openSource)|
-|`Lógica de programación parte 3: Practicando con juegos y animaciones`|[Link al repositorio](https://github.com/AngelDiaz-21/Code-challenge)|
+|`Lógica de programación parte 1: Primeros pasos`|[Link al repositorio](https://github.com/AngelDiaz-21/logica-1-primerosPasos.git)|
+|`Lógica de programación parte 2: Conceptos primordiales`|[Link al repositorio]()|
+|`Lógica de programación parte 3: Practicando con juegos y animaciones`|[Link al repositorio]()|
 
 
 
